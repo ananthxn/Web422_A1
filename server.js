@@ -83,7 +83,7 @@ app.delete("/api/trips/:id", (req, res) => {
 
     db.deleteTripById(id)
         .then(() => {
-            res.status(201).json({ message: `trip deleted successfully` });
+            res.status(204).end();
         })
         .catch((err) => {
             res.status(500).json({ error: err });
