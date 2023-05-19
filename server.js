@@ -7,10 +7,10 @@
 *
 * Name: Ananthakrishnan Arunkumar Student ID: 134658210 Date: 19 May
 *
-* Cyclic Web App URL:  
+* Cyclic Web App URL:  https://lazy-lime-basket-clam-cap.cyclic.app
 *
-* GitHub Repository URL: 
-*git
+* GitHub Repository URL: https://github.com/ananthxn/Web422_A1
+*
 ********************************************************************************/
 
 
